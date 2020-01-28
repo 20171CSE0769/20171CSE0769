@@ -5,6 +5,4 @@ Y sujay Reddy
 minister (ysrcp)
 A.P
 
-
-branch1
-
+master
