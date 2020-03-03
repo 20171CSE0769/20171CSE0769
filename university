@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>university</title>
+</head>
+<frameset rows="30%,40%,30%">
+<frame name="centre" src="pres.html">
+<frame name="top" src="frameset.html">
+<frame name="top" src="sampletable.html">
+<noframes>
+<body>your browser does not support frames.</body>
+</noframes>
+</frameset>
+</html>
